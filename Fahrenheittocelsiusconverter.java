@@ -1,5 +1,5 @@
 package secondlab;
-public class fahrenheittocelsiusconverter {
+public class Fahrenheittocelsiusconverter {
 
     public static void main(String[] args) {
         // Predefined Fahrenheit temperature
