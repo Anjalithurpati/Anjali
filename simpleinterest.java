@@ -1,6 +1,6 @@
 package secondlab;
 
-public class simpleinterest {
+public class Simpleinterest {
            public static void main(String[] args) {
 	        int principal = 10000; // Principal amount
 	        int rate = 3; // Annual interest rate (in percentage)
