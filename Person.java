@@ -1,5 +1,5 @@
 		public class Person {
-			String name="vinela";
+			String name="anjali";
 			int age=21;
 			int salary=20000;
 			public static void main(String[] args) {
